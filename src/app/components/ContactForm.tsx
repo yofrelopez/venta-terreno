@@ -35,7 +35,9 @@ export default function ContactForm() {
         toast.error("❌ Ocurrió un error al enviar tu mensaje.");
       }
     } catch (error) {
+        console.error(error);
       toast.error("❌ Ocurrió un error de red. Intenta nuevamente.");
+        
     }
   }
 
