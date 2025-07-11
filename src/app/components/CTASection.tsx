@@ -10,11 +10,13 @@ export default function CTASection() {
         <p className="mb-6 text-lg">
           Un asesor especializado te brindará toda la información que necesites para tomar la mejor decisión.
         </p>
-        {/* Botón principal WhatsApp */}
+        {/* Botón principal WhatsAp, agregar enlace de la web: https://venta-terreno.vercel.app/*/}
         <a
-          href="https://wa.me/51999999999"
+          href="https://wa.me/51922501509?text=Hola,%20me%20interesa%20este%20terreno%20en%20Barranca.%20https%3A%2F%2Fventa-terreno.vercel.app%2F"          
           target="_blank"
           className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded font-semibold"
+          rel="noopener noreferrer"
+
         >
           <FaWhatsapp className="text-2xl" />
           Contáctanos por WhatsApp

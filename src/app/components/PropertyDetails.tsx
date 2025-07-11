@@ -36,12 +36,12 @@ export default function PropertyDetails() {
         <div className="flex items-center space-x-4">
           <FaTags className="text-3xl text-blue-600" />
           <div>
-            <h3 className="text-xl font-semibold">Precio y Condiciones</h3>
+            <h3 className="text-xl font-semibold">Precio</h3>
             <p className="mt-1 text-gray-600">
-              Precio desde: <strong>S/ 120 por m²</strong>
+              Precio: <strong> USD $ 800,000.00 -  A tratar </strong>
             </p>
             <p className="text-gray-600">
-              Modalidad: Contado o financiamiento directo
+              Valor real en tasación: USD $ 1.2 millones
             </p>
           </div>
         </div>

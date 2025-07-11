@@ -22,15 +22,15 @@ export default function Footer() {
         <div className="text-center md:text-left">
           <h3 className="text-lg font-semibold text-white mb-2">Contacto</h3>
           <p className="text-sm">Lima, Perú</p>
-          <p className="text-sm">Tel: +51 999 999 999</p>
-          <p className="text-sm">Email: contacto@bcapublicidad.pe</p>
+          <p className="text-sm">Tel: +51 922 501 509</p>
+          <p className="text-sm">Email: idev.pe@gmail.com</p>
         </div>
 
         {/* Columna 3: Redes */}
         <div className="flex flex-col items-center md:items-end">
           <h3 className="text-lg font-semibold text-white mb-2">Síguenos</h3>
           <div className="flex space-x-4">
-            <a href="#" aria-label="Facebook" className="hover:text-white">
+            <a href="https://www.facebook.com/bca.publi" aria-label="Facebook" className="hover:text-white">
               <svg
                 fill="currentColor"
                 viewBox="0 0 24 24"
@@ -39,7 +39,7 @@ export default function Footer() {
                 <path d="M22 12c0-5.522-4.478-10-10-10S2 6.478 2 12c0 4.991 3.657 9.128 8.438 9.878v-6.987H7.898v-2.89h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.772-1.63 1.562v1.876h2.773l-.443 2.89h-2.33v6.987C18.343 21.128 22 16.991 22 12z" />
               </svg>
             </a>
-            <a href="#" aria-label="Instagram" className="hover:text-white">
+            <a href="https://www.facebook.com/bca.publi" aria-label="Instagram" className="hover:text-white">
               <svg
                 fill="currentColor"
                 viewBox="0 0 24 24"
