@@ -3,15 +3,17 @@ import {
   FaRulerCombined,
   FaMapMarkedAlt,
   FaFileAlt,
-  FaBolt,
+  FaDrawPolygon,
   FaTags,
   FaDownload
 } from "react-icons/fa";
 
+
+
 const stats = [
-  { icon: FaRulerCombined, label: "Área total", value: "10,153 m²" },
+  { icon: FaDrawPolygon, label: "Área total", value: "10,153 m²" },
   { icon: FaMapMarkedAlt,  label: "Lotes habilitados", value: "55" },
-  { icon: FaBolt,          label: "Servicios", value: "Luz • Agua • Desagüe" },
+  { icon: FaRulerCombined,          label: "Perímetro", value: "460.23 ml" },
   { icon: FaFileAlt,       label: "Documentación", value: "Partida SUNARP vigente" }
 ];
 

@@ -3,6 +3,7 @@ import CTASection from "./components/CTASection";
 import Gallery from "./components/Gallery";
 import HeroSection from "./components/HeroSection";
 import MapSection from "./components/MapSection";
+import MemoriaDescriptiva from "./components/MemoriaDescriptiva";
 import PropertyDetails from './components/PropertyDetails';
 
 
@@ -41,6 +42,7 @@ export default function Home() {
       <HeroSection />
       <Gallery />
       <PropertyDetails />
+      <MemoriaDescriptiva />
       <MapSection />
       <CTASection />
       <ContactForm />
