@@ -7,6 +7,7 @@ import MemoriaDescriptiva from "./components/MemoriaDescriptiva";
 import PropertyDetails from './components/PropertyDetails';
 
 
+
 export const metadata = {
   title: "Venta de Terreno Urbano en Barranca | BCA Publicidad",
   description: "Terreno urbano habilitado en la provincia de Barranca. Inversión segura con documentación en regla. Contáctanos ahora.",
@@ -46,6 +47,7 @@ export default function Home() {
       <MapSection />
       <CTASection />
       <ContactForm />
+
     </main>
   );
 }
