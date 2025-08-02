@@ -40,7 +40,7 @@ export default function PropertyDetails() {
           <div>
             <h3 className="text-xl font-semibold">Precio</h3>
             <p className="mt-1 text-gray-600">
-              Precio: <strong> USD $ 700,000.00 -  A tratar </strong>
+              Precio: <strong> USD $ 650,000.00 -  A tratar </strong>
             </p>
             <p className="text-gray-600">
               Valor real en tasación: USD $ 1.2 millones
